@@ -1,2 +1,1 @@
-# docker-hugo
-Docker hugo v0;72
+# Docker image for Hugo Extended 0.72
